@@ -1,0 +1,8 @@
+.env
+
+__pycache__
+
+/icareapp/__pycache__
+
+/instance/__pycache__
+
